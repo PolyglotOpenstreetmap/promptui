@@ -29,5 +29,5 @@ func main() {
 		return
 	}
 
-	fmt.Printf("You choose %q\n", result)
+	fmt.Printf("You entered %q\n", result)
 }
