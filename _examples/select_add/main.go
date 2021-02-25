@@ -31,5 +31,5 @@ func main() {
 		return
 	}
 
-	fmt.Printf("You choose %s\n", result)
+	fmt.Printf("You chose %s\n", result)
 }
